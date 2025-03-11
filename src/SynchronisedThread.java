@@ -24,5 +24,5 @@ class CounterThread extends Thread{
 }
 
 public class SynchronisedThread {
-    public static 
+
 }
